@@ -13,7 +13,7 @@ function return_normal() {
     //Write your code here
 	let strong=document.querySelectorAll("strong")
 	strong.forEach((element)=>{
-		element.style.backgroundColor="rgb(0,0,0)"
+		element.style.color="rgb(0, 0, 0)"
 	})
 
 
